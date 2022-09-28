@@ -1,0 +1,15 @@
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\bin\Debug\net6.0\Seminar8_dz.exe
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\bin\Debug\net6.0\Seminar8_dz.deps.json
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\bin\Debug\net6.0\Seminar8_dz.runtimeconfig.json
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\bin\Debug\net6.0\Seminar8_dz.dll
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\bin\Debug\net6.0\Seminar8_dz.pdb
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\Seminar8_dz.csproj.AssemblyReference.cache
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\Seminar8_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\Seminar8_dz.AssemblyInfoInputs.cache
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\Seminar8_dz.AssemblyInfo.cs
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\Seminar8_dz.csproj.CoreCompileInputs.cache
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\Seminar8_dz.dll
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\refint\Seminar8_dz.dll
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\Seminar8_dz.pdb
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\Seminar8_dz.genruntimeconfig.cache
+C:\Users\Cookie\dev\SEMINARSC#\Seminar8_dz\obj\Debug\net6.0\ref\Seminar8_dz.dll
